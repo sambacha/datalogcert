@@ -21,4 +21,4 @@ This code is released under the terms of the LGPLv3 license; see LICENSE for det
 
 
 ## Companion paper
-[Certifying Standard and Stratified Datalog Inference Engines in SSReflect](https://hal.archives-ouvertes.fr/hal-01745566v1, Benzaken, Véronique; Contejean, Évelyne; Dumbrava Stefania, [ITP - 8th International Conference on Interactive Theorem Proving](https://itp2017.inria.fr) - 2017
+[Certifying Standard and Stratified Datalog Inference Engines in SSReflect](https://hal.archives-ouvertes.fr/hal-01745566v1), Benzaken, Véronique; Contejean, Évelyne; Dumbrava Stefania, [ITP - 8th International Conference on Interactive Theorem Proving](http://itp2017.cic.unb.br/) - 2017
