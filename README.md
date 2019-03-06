@@ -1,6 +1,6 @@
 # DatalogCert
 
-A Coq specification and formalization of Datalog engines
+A Coq specification and formalization of Datalog engines (Positive and Negative)
 
 
 ## Compilation
